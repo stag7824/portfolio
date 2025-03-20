@@ -1,0 +1,122 @@
+{
+  "personalInfo": {
+    "name": "SYED TALHA AHMED GARDAZI",
+    "location": "Islamabad, Pakistan",
+    "phone": "+92 3121054485",
+    "email": "t.ahmed.18027@khi.iba.edu.pk",
+    "linkedin": "https://www.linkedin.com/in/stagify/",
+    "github": "https://github.com/stag7824",
+    "emoji": "👨‍💻"
+  },
+  "about": {
+    "summary": "Experienced Software Engineer with expertise in full-stack development, microservices architecture, and mobile application development. Skilled in a variety of programming languages and frameworks with a focus on creating efficient, scalable, and user-friendly applications. Proficient in payment integrations including PayPal, and experienced with Express, Node.js, and NestJS frameworks. IELTS score of 7.5 demonstrating strong communication skills.",
+    "emoji": "🚀"
+  },
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "company": "Bank Al Habib",
+      "location": "Karachi",
+      "period": "Oct 2022 – present",
+      "highlights": [
+        {
+          "text": "Enhanced Reporting System (Microservices, pagination and API Pooling): Collaborated in a high-performing team of 5 developers to significantly improve the bank's reporting system. Employed Jest to write unit tests for the frontend components used within the reporting system, ensuring responsiveness and user-friendly interaction.",
+          "tags": ["Microservices", "Jest", "API Pooling", "Frontend Testing"]
+        },
+        {
+          "text": "Used BIRT for report generation and API pooling to optimize performance when handling large datasets, enabling efficient printing of a high volume of reports. Reduced report printing time by 40% for datasets exceeding 10,000 records while allowing user to print old records.",
+          "tags": ["BIRT", "API Pooling", "Performance Optimization", "Large Datasets"]
+        },
+        {
+          "text": "Introduced pagination for user-friendly navigation of extensive reports.",
+          "tags": ["Pagination", "UX Design", "Frontend"]
+        },
+        {
+          "text": "Contributed to the system's performance upgrade by leveraging microservices architecture. This involved building the statement generation functionality as a microservice, promoting scalability and maintainability. Increased system capacity to handle concurrent report requests by 2x.",
+          "tags": ["Microservices", "Scalability", "Concurrency", "System Architecture"]
+        },
+        {
+          "text": "Demonstrated Full-Stack Expertise: Built robust backend services using Quarkus to power the reporting system's functionalities and ensure efficient data processing. Utilized Vuex and XState to manage transitions and state for a responsive and user-friendly frontend experience. Moved to Higher order functions (HOC) to employee micro-frontend design enhancing application robustness.",
+          "tags": ["Quarkus", "Vuex", "XState", "HOC", "Micro-Frontend", "Full-Stack"]
+        },
+        {
+          "text": "Loan Originating System: Developed a web application for loan origination using ASP.NET Core MVC and SQL Server. Significantly improved system performance by digitizing the Excel-based solution.",
+          "tags": ["ASP.NET Core MVC", "SQL Server", "Web Application", "Performance Optimization"]
+        }
+      ],
+      "emoji": "💼"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack course",
+      "institution": "University of Helsinki",
+      "period": "Aug 2024 – Present",
+      "courses": [
+        "Fundamentals of Web apps",
+        "Communicating with server",
+        "Programming a server with NodeJS and Express",
+        "Testing Express servers, user administration",
+        "React router, custom hooks, styling app with CSS and webpack",
+        "GraphQL, TypeScript",
+        "Using relational databases"
+      ],
+      "emoji": "🎓"
+    },
+    {
+      "degree": "BS Computer Science",
+      "institution": "Institute of Business Administration (IBA)",
+      "period": "Aug 2018 – Jun 2022",
+      "courses": [
+        "Application Development for Mobile Devices",
+        "Cloud Computing",
+        "Network Security",
+        "Introduction to Image Processing",
+        "Business Intelligence",
+        "Management and Organizational Behaviour",
+        "Data Warehousing"
+      ],
+      "emoji": "🎓"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Full stack E-commerce Application using Next.js",
+      "description": "Implemented e-commerce features such as featured products, latest products, add to cart functionality, Stripe checkout, and optimized responsive design for an improved user experience.",
+      "emoji": "🛒",
+      "link": "https://github.com/stag7824/ecommerce-nextjs"
+    },
+    {
+      "title": "Final Year Project (FYP) – Learning Management System",
+      "description": "Designed, developed, and unit-tested a scalable mobile application using Flutter for a school of 300+ students. Built a robust Django backend to handle user authentication, data storage, and API communication for the mobile application. Integrated a WhatsApp API to automate announcement and result delivery, improving communication efficiency between school and users.",
+      "emoji": "📱",
+      "link": "https://github.com/stag7824/lms-flutter"
+    },
+    {
+      "title": "Portfolio Website with Glitch Effects",
+      "description": "Created a modern portfolio website with glitch effects, animated hex rain, and lightning effects. Built with React and TailwindCSS, featuring responsive design and interactive UI elements.",
+      "emoji": "💻",
+      "link": "https://github.com/stag7824/portfolio"
+    }
+  ],
+  "skills": {
+    "backend": ["Express.js", "Node.js", "TypeScript", "Java (Quarkus)", "ASP.NET Core MVC", "Django", "Flask"],
+    "frontend": ["React.js", "Angular.js", "C#", "HTML", "CSS"],
+    "mobile": ["Flutter", "React Native"],
+    "database": ["SQL (including SQL Server, DB2, MySQL, and SQLite)", "MongoDB", "Firebase"],
+    "stateManagement": ["Redux", "Vuex", "Xstate"],
+    "devOps": ["CI/CD", "Jest", "Docker"],
+    "design": ["UI/UX Design (Figma)", "User Story Design (draw.io, Lucidchart)"],
+    "versionControl": ["Git (GitLab, GitHub)"],
+    "other": ["C", "C++", "Python", "PostgreSQL", "Scripting (Bash & PowerShell)", "Linux", "AWS", "Heroku", "Netlify", "Microsoft Office"],
+    "languages": ["Pahari / Kashmiri (mother tongue)", "English (Native proficiency)", "Urdu (Native speaker)", "Arabic (Reading and Writing only)", "Hindi (proficient speaking and listening only)"],
+    "emoji": "⚙️"
+  },
+  "certifications": [
+    {
+      "title": "Google UX Design Professional Certificate",
+      "description": "6 Months Specialization – 7 Courses",
+      "emoji": "🏆"
+    }
+  ]
+}
