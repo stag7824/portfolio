@@ -1,17 +1,20 @@
 {
   "name": "portfolio",
-  "private": true,
+  "homepage": "https://stag7824.github.io/portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "gh-pages": "gh-pages -d dist"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
